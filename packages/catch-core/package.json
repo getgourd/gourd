@@ -1,0 +1,9 @@
+{
+  "name": "@gourd/catch-core",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "imingyu",
+  "license": "BSD-3-Clause"
+}

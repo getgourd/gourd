@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getgourd/gourd.git"
+  },
+  "author": "imingyu",
+  "homepage": "https://github.com/getgourd/gourd#readme"
+}
